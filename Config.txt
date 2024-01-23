@@ -1,6 +1,0 @@
-//Compiled with OpenCL supported flag --opencl-cuda
-
-RPC: "",
-Address: "",
-Threads: "Auto",
-OpenCL-IDs: ""
