@@ -1,4 +1,4 @@
-# Miner
+# SCALE-MAMBA Miner
 
 NOTE: This code is licensed under the GPLv3. This means that the source to any
 modifications you make to this code MUST be provided by law if you distribute
